@@ -1,0 +1,10 @@
+---
+layout: post
+title: Feature Engineering
+published: true
+tags: inform 7 interactive fiction
+---
+
+Inform 7 is an engine for creating interactive fiction that relies on an interpreter format. The early games Zork, as well as my parents' strange personal favorite Leather Goddesses of Phobos (fun fact: the latter game was referenced in the movie adaptation of Andy Weir's novel "The Martian") use an interpreter style - that is, text adventures where the player plays the game by entering commands and hoping that the command they enter is understood by the game. There is a standard vocabulary of commands that's used to create these games, and they have a few big advantages over choose-your-own-adventure formats such as what you can create in Twine. Characters that move from place to place, coherent movement systems built into the game itself, Inform 7 comes pre-loaded with a lot of these features already assumed and then lets you build on top of them.
+
+I have decided to attempt to create a game in Inform 7, using as its premise an idea that I had for an RPG campaign but never got around to running properly. Due to its nature as a locked-building mystery, I think it would work well in the form of an Inform 7 game. As I work on this, over time, I'll be publishing further posts about what I have learned about the Inform 7 system, and my thoughts about interactive fiction design in general. I think this might be an interesting project to undertake, whether or not I finish it, and perhaps you'll agree. Who's to say.
