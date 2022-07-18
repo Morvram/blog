@@ -1,0 +1,17 @@
+---
+layout: post
+title: Data Representation
+published: true
+tags: data-governance data-representation
+---
+
+Sebastian-Coleman describe Data Representation as "a set of rules for recording data items." Data cannot be recorded haphazardly - in order to be used meaningfully, it has to be ordered properly. Therefore data representation, as one aspect of the structure of data, is important for maintaining quality and usefulness of data. This is further reinforced by the classification by Redman which Sebastian-Coleman point to: data representation encompasses qualities such as interpretability, portability, the precision and flexibility of format, the ability to represent null values, efficient use of storage and representational consistency. All of these values and qualities - rules and constraints on how we store data - help to ensure that we are creating *useful* data, not simply increasing the *volume* of data we have access to. Data are collected for specific purposes to represent a meaning beyond the actual bits of data themselves, which is the 'semiotic function' - "using data means interpreting data's meaning" because data is inherently representational and is not 'the thing itself' that we are drawing conclusions about. Data, and our ability to interpret data, provides us with information about something that exists outside of the data itself, 
+
+
+This concept of data representation is part of the broader subject of 'data management', an important consideration in the data science world and a subject that deals with the implications of data ownership. I am currently studying this subject in my night classes and might have a few things to say about it as I go through my research. Since I'm interested in the ethical use of data, data governance and data ownership as a research area raises a number of topics I might be interested in pursuing further. One example brought up by the paper "A Relational Theory of Data Governance," by Salome Viljoen, is the use of data from Amazon Ring cameras by police officers. This is an interesting example - there are downstream effects of data ownership which the user may not intend but which would have to be considered from an ethical standpoint and which must factor into a decision that is made by any organization which wishes to claim ethical standing. It is easy to make a claim of ethical standing in data usage without considering the downstream effects, similar to how some people will claim that Facebook's use of data is ethical because data collected without your permission is anonymized - even though this blatantly ignores the ease of data re-identification combined with the fact that breaches of Facebook's data warehouses can and have happened.
+
+
+SOURCES
+Sebastian-Coleman, Laura. Measuring Data Quality for Ongoing Improvement a Data Quality Assessment Framework. Amsterdam: Elsevier, 2013. 
+Sebastian-Coleman, Laura. Meeting the Challenges of Data Quality Management. San Diego, UNITED STATES: Elsevier Science & Technology, 2022. 
+Viljoen, Salomé. “A Relational Theory of Data Governance.” The Yale Law Journal, 2021, 82.
